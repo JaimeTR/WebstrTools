@@ -1,6 +1,6 @@
 # WebstrTools
-# Author: @JaimeTR
-# https://github.com/JaimeTR/WebstrTools
+# Author: JaimeTR
+
 
 ```markdown
 ## Guia para Iniciar 
