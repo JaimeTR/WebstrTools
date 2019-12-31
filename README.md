@@ -1,27 +1,29 @@
-# Hak9Tools
-# Author: @Hak9
-# https://github.com/xHak9x/Hak9Tools
+# WebstrTools
+# Author: @JaimeTR
+# https://github.com/JaimeTR/WebstrTools
 
-## Getting Started
-1. ```git clone https://github.com/xHak9x/Hak9Tools.git```
-2. ```cd Hak9Tools```
-3. ```chmod +x hak9tools.sh ```
-4. ```./hak9tools.sh ```
+```markdown
+## Guia para Iniciar 
 
-## A linux operating system. We recommend :
-- Kali Linux 
-- Cyborg
-- Parrot 
-- BackTrack 
-- Backbox
+1. git clone https://github.com/JaimeTR/WebstrTools
+2. cd webstrtools
+3. chmod +x webstrtools.sh
+4. ./webstrtools.sh 
+
+**Disfrutalo** 
+
+```
 
 ## Screenshot 
 <img src="https://image.ibb.co/hhoEPp/h9t.png"/>
 
-### Donate! 
+AYUDAME A SEGUIR TRABAJANDO [Donar](https://www.paypal.me/jaimetarazona).
 
-![](https://image.ibb.co/i4ES3U/bc.png)
+### PAYPAL
 
-   ![](https://image.ibb.co/iniWV9/electrum_3_2_2_2018_08_30_21_49_44.png)
+[https://www.paypal.me/jaimetarazona](https://www.paypal.me/jaimetarazona). 
 
-Bitcoin: 1A3a1p22EHXWq7muYZc9rGTmRGaithMnjR
+
+### GRACIAS
+
+JaimeTR hecho con ❤️
