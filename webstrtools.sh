@@ -24,17 +24,6 @@ sleep 2
 # Check root
 [[ `id -u` -eq 0 ]] > /dev/null 2>&1 || { echo  $red "Debes ser root para ejecutar el script"; echo ; exit 1; }
 
-# detect ctrl+c exiting
-trap ctrl_c INT
-ctrl_c() {
-clear
-echo -e $red"[*] (Ctrl + C ) Detected, Trying To Exit ..."
-sleep 1
-echo ""
-echo -e $yellow"[*] Thanks For Using WebstrTools  :)"
-exit
-}
-clear
 # check internet
 function checkinternet {
   ping -c 1 google.com > /dev/null
