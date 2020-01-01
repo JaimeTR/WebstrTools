@@ -1,6 +1,6 @@
-#!/bin/bash
+# !/bin/bash
 #
-#       WebstrTools v1
+#       WebstrTools
 #
 #             WebstrTools Creado por : JaimeTR
 #             Youtube : https://www.youtube.com/watch?v=ylXpyMStRcw
