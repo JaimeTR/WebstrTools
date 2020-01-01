@@ -7,7 +7,7 @@
 ## Guia para Iniciar 
 
 1. git clone https://github.com/JaimeTR/WebstrTools
-2. cd webstrtools
+2. cd WebstrTools
 3. chmod +x webstrtools.sh
 4. ./webstrtools.sh 
 
