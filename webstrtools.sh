@@ -28,10 +28,10 @@ sleep 2
 trap ctrl_c INT
 ctrl_c() {
 clear
-echo -e $red"[*] (Ctrl + C) Detectado, Intentando salir ..."
+echo -e $red"[*] (Ctrl + C ) Detected, Trying To Exit ..."
 sleep 1
 echo ""
-echo -e $yellow"[*] Gracias por usar WebstrTools <3"
+echo -e $yellow"[*] Thanks For Using WebstrTools  :)"
 exit
 }
 clear
