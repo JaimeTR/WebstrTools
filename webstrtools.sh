@@ -3,9 +3,7 @@
 #       WebstrTools
 #
 #             WebstrTools Creado por : JaimeTR
-#             Youtube : https://www.youtube.com/watch?v=ylXpyMStRcw
 #             GitHub : https://github.com/JaimeTR
-#             correo : jaime130798@webstrservices.com
 #
 #
 #
@@ -63,9 +61,7 @@ echo "                                                                          
 
 echo ""
 echo -e $cyan"    CREADO POR           $white":" $blue JaimeTR "
-echo -e $cyan"    YOUTUBE              $white":" $blue https://www.youtube.com/watch?v=ylXpyMStRcw"
 echo -e $cyan"    GITHUB               $white":" $blue https://github.com/JaimeTR"
-echo -e $cyan"    FACEBOOK             $white":" $blue https://www.facebook.com/HackerWebstr/"
 echo -e $cyan ""
 echo -e $okegreen"   ====================== Tool List =======================    ";
         echo
