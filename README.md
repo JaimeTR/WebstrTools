@@ -10,9 +10,11 @@
 2. cd WebstrTools
 3. chmod +x webstrtools.sh
 4. ./webstrtools.sh 
-
 **Disfrutalo** 
 
+```
+
+```markdown
 ## GUIA PARA LINUX (PRINCIPIANTES)
 1. su sudo 
 2. poner contraseña de superusuario - admin
